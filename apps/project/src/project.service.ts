@@ -18,6 +18,14 @@ export class ProjectService {
 
   }
 
+  addTask (){
+
+  }
+  
+  getAllTasks(){
+
+  }
+
   updateProject(){
 
   }
